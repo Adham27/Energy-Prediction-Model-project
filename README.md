@@ -1,2 +1,4 @@
 # Energy-Prediction-Model-project
-We aim to construct models for four different energy types using data from over one thousand buildings across various locations globally. The dataset contains three years' worth of hourly meter readings and recorded weather patterns
+Assessing the value of energy efficiency improvements can be challenging as there's no way to truly know how much energy a building would have used without the improvements. The best we can do is to build counterfactual models. Once a building is overhauled the new (lower) energy consumption is compared against modeled values for the original building to calculate the savings from the retrofit. More accurate models could support better market incentives and enable lower-cost financing.
+
+In this project, we will build these models across four energy types based on historic usage rates and observed weather. The dataset includes three years of hourly meter readings from over one thousand buildings at several different sites around the world.
